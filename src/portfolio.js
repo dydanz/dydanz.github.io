@@ -188,25 +188,25 @@ const workExperiences = {
       company: "Electrum",
       companylogo: require("./assets/images/electrum.png"),
       date: "JAN 2026 - Now",
-      // location: "Alexandria, Eygpt",
+      location: "Jakarta, Indonesia",
       desc:
-        "Managing a lean, cross-functional engineering team while remaining deeply hands-on in development. Split time between building production systems, shaping technical architecture, and enabling the team to ship reliable software quickly.",
+        "Managing a lean, cross-functional engineering team while remaining deeply hands-on in development. Split time between building production systems, shaping technical architecture, and enabling the team to scale our AI capabilities.",
     },
     {
       role: "Founding Engineer / Head of Engineering",
       company: "OY! Indonesia",
       companylogo: require("./assets/images/oy_logo.jpeg"),
       date: "FEB 2017 - JULY 2024",
-      // location: "Alexandria, Eygpt",
+      location: "Jakarta, Indonesia",
       desc:
       "As the Founding Engineer and promoted Head of Engineering at OY! Indonesia, I played a pivotal role in building the company's technology from the ground up. I led the development of our core fintech platform, designed scalable systems to handle high transaction volumes, and established best practices for software development. My responsibilities included overseeing the engineering team, collaborating with cross-functional teams to align technical solutions with business goals, and ensuring the delivery of reliable and secure financial services to our customers.",
     },
     {
-      role: "Sotware Engineering",
+      role: "Software Engineering",
       company: "Various Companies",
       companylogo: require("./assets/images/stealth-comp.jpeg"),
-      date: "AUG 2007 - JAN 2017",
-      // location: "Alexandria, Eygpt",
+      date: "AUG 2006 - JAN 2017",
+      location: "Indonesia, Singapore",
       desc:
         "Over the course of a decade, I gained extensive experience in software engineering across various companies and industries. I worked on a wide range of projects, from embedded systems and real-time operating systems to telecommunications core systems and financial technology solutions. My roles involved designing and implementing software architectures, developing applications in multiple programming languages, and collaborating with cross-functional teams to deliver high-quality software products.",
       descBullets: [

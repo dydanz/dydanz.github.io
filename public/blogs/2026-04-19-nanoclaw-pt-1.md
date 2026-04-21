@@ -8,8 +8,6 @@ excerpt: "How a side-project itch turned into a multi-agent AI system that goes 
 repo: https://github.com/dydanz/kandangkambing
 ---
 
-### I Built a Discord Bot That Writes Code and Opens PRs For Me
-
 *Part 1 of a series on building NanoClaw — a multi-agent AI system that goes from Discord message to GitHub PR, autonomously.*
 
 ---
@@ -181,4 +179,4 @@ Next up: how the architecture came together, what the agents actually are, and t
 
 ---
 
-*Part 1 of 7 — [Next: The Architecture →](02-architecture.md)*
+*Part 1 of 7 — [Next: The Architecture →](/blog/nanoclaw-architecture)*
