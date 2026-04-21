@@ -2,6 +2,8 @@
 
 ## A clean, beautiful and responsive portfolio template for Developers!
 
+Forked from: https://github.com/Eslam-Abdo/Eslam-Abdo.github.io -- add a few spices!
+
 Just change `src/portfolio.js` to get your personal portfolio. Customize portfolio theme by using your own color scheme globally in the  `src/_globalColor.scss` file. Feel free to use it as-is or personalize it as much as you want.
 
 If you'd like to **contribute** and make this much better for other users, have a look at [Issues](https://github.com/dydanz/dydanz.github.io/issues).
