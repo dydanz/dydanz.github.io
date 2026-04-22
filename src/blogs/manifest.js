@@ -9,6 +9,13 @@
 
 const blogManifest = [
   {
+    title: "From Discord Command to GitHub PR: What Actually Happens",
+    date: "2026-04-19",
+    slug: "nanoclaw-full-flow",
+    excerpt: "A step-by-step walkthrough of what NanoClaw does when you send it a message — the happy path, the failure modes, and what the Discord thread looks like when it's working.",
+    file: "/blogs/2026-04-19-nanoclaw-pt-3.md"
+  },
+  {
     title: "The Architecture: How Three Agents, a JSON File, and Git Worktrees Became a System",
     date: "2026-04-19",
     slug: "nanoclaw-architecture",
