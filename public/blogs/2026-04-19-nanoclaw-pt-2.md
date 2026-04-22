@@ -292,4 +292,4 @@ In the next post, I'll walk through the full end-to-end flow in detail — what 
 
 ---
 
-*Part 2 of 7 — [← Part 1: Why I Built This](/blog/why-i-built-nanoclaw) · Part 3: Coming Soon*
+*Part 2 of 7 — [← Part 1: Why I Built This](/blog/why-i-built-nanoclaw) · [Part 3: The Full Flow →](/blog/nanoclaw-full-flow)*
