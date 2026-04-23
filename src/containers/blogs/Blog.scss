@@ -209,6 +209,47 @@
   color: $textColorDark;
 }
 
+/* Tables inside blog posts */
+.blog-post-content table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 1.5em 0;
+  font-size: 15px;
+}
+
+.blog-post-content th,
+.blog-post-content td {
+  border: 1px solid $lightBoxShadowDark;
+  padding: 8px 12px;
+  text-align: left;
+  color: $subTitle;
+}
+
+.blog-post-content th {
+  background: $lightBackground3;
+  color: $titleColor;
+  font-weight: 600;
+}
+
+.blog-post-content tr:nth-child(even) td {
+  background: $lightBackground2;
+}
+
+.blog-post-content.dark-mode table th {
+  background: lighten($darkBackground, 6%);
+  color: $textColorDark;
+  border-color: lighten($darkBackground, 15%);
+}
+
+.blog-post-content.dark-mode table td {
+  color: darken($textColorDark, 10%);
+  border-color: lighten($darkBackground, 15%);
+}
+
+.blog-post-content.dark-mode table tr:nth-child(even) td {
+  background: lighten($darkBackground, 4%);
+}
+
 .blog-post-meta {
   font-size: 13px;
   color: $subTitle;

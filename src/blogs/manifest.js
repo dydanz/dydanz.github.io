@@ -9,6 +9,13 @@
 
 const blogManifest = [
   {
+    title: "LLM Routing: Why I Use Three Different AI Providers (And How I Stopped Overpaying)",
+    date: "2026-04-19",
+    slug: "nanoclaw-llm-routing",
+    excerpt: "Not every task needs the same model. How NanoClaw picks between Claude, GPT-4o, and Gemini — and the $40 mistake that made cost tracking non-negotiable.",
+    file: "/blogs/2026-04-19-nanoclaw-pt-4.md"
+  },
+  {
     title: "From Discord Command to GitHub PR: What Actually Happens",
     date: "2026-04-21",
     slug: "nanoclaw-full-flow",

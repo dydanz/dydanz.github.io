@@ -21,6 +21,7 @@
     "react-scripts": "^5.0.1",
     "react-test-renderer": "^16.14.0",
     "react-twitter-embed": "^3.0.3",
+    "remark-gfm": "^1.0.0",
     "sass": "^1.65.1"
   },
   "scripts": {

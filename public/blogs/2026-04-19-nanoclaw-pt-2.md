@@ -12,7 +12,7 @@ repo: https://github.com/dydanz/kandangkambing
 
 ---
 
-In [Part 1](01-why-i-built-this.md), I talked about why I built NanoClaw — the itch, the experiment, and the moment a weekend project grew legs. This post is about how the system is actually put together. Not the aspirational version, but the real one: what's in the repo, how the pieces connect, and where I made trade-offs I'm still thinking about.
+In [Part 1](/blog/why-i-built-nanoclaw), I talked about why I built NanoClaw — the itch, the experiment, and the moment a weekend project grew legs. This post is about how the system is actually put together. Not the aspirational version, but the real one: what's in the repo, how the pieces connect, and where I made trade-offs I'm still thinking about.
 
 If you want to follow along, the code is at [github.com/dydanz/kandangkambing](https://github.com/dydanz/kandangkambing). The repo is Python, built on top of NanoClaw's lightweight agent framework, with specs under `docs/specs/`, agent configurations in `.claude/`, and the core engine under `nanoclaw/`.
 

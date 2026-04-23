@@ -1,6 +1,7 @@
 import React, {useState, useEffect, useContext} from "react";
 import {useParams, useHistory} from "react-router-dom";
 import ReactMarkdown from "react-markdown";
+import remarkGfm from "remark-gfm";
 import Header from "../../components/header/Header";
 import Footer from "../../components/footer/Footer";
 import ScrollToTopButton from "../topbutton/Top";
@@ -53,7 +54,7 @@ function BlogPostContent() {
       <div className={isDark ? "blog-post-content dark-mode" : "blog-post-content"}>
         <p className="blog-post-meta">{post.date}</p>
         <h1 className="blog-post-title">{post.title}</h1>
-        {loading ? <p>Loading...</p> : <ReactMarkdown>{content}</ReactMarkdown>}
+        {loading ? <p>Loading...</p> : <ReactMarkdown remarkPlugins={[remarkGfm]}>{content}</ReactMarkdown>}
       </div>
     </div>
   );

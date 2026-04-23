@@ -12,7 +12,7 @@ repo: https://github.com/dydanz/kandangkambing
 
 ---
 
-The [previous post](02-architecture.md) described the architecture — agents, memory, worktrees, the workflow engine. That's the blueprint. This post is the actual construction site. I'm going to walk through what happens, step by step, when you type a message in Discord and wait for a PR to show up.
+The [previous post](/blog/nanoclaw-architecture) described the architecture — agents, memory, worktrees, the workflow engine. That's the blueprint. This post is the actual construction site. I'm going to walk through what happens, step by step, when you type a message in Discord and wait for a PR to show up.
 
 I'm using the health check endpoint as the example because it's simple, self-contained, and — more importantly — because it's one of the first features I actually ran through the system end-to-end. The early PRs in [kandangkambing](https://github.com/dydanz/kandangkambing) were built this way. There are 10 PRs in the repo now (9 merged, 1 open), and following this flow is how most of them got there.
 
@@ -328,4 +328,4 @@ In the next post, I'll dig into the LLM routing layer — why GPT-4o writes bett
 
 ---
 
-*Part 3 of 7 — [← Part 2: The Architecture](/blog/nanoclaw-architecture) · Part 4: Coming Soon*
+*Part 3 of 7 — [← Part 2: The Architecture](/blog/nanoclaw-architecture) · [Part 4: LLM Routing →](/blog/nanoclaw-llm-routing)*
