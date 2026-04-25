@@ -9,6 +9,13 @@
 
 const blogManifest = [
   {
+    title: "Human-in-the-Loop: Why My Bot Asks Permission Before Pushing Code",
+    date: "2026-04-19",
+    slug: "nanoclaw-approval-gates",
+    excerpt: "How NanoClaw waits for a human reaction without freezing, the evolution from simple emoji gates to dual-signal approval, and the bug an AI reviewer caught in the approval logic itself.",
+    file: "/blogs/2026-04-19-nanoclaw-pt-5.md"
+  },
+  {
     title: "LLM Routing: Why I Use Three Different AI Providers (And How I Stopped Overpaying)",
     date: "2026-04-19",
     slug: "nanoclaw-llm-routing",

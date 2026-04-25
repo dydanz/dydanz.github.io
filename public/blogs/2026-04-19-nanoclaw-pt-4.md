@@ -291,4 +291,4 @@ In the next post: the approval gate. How NanoClaw posts to Discord, waits for a 
 
 ---
 
-*Part 4 of 7 — [← Part 3: The Full Flow](/blog/nanoclaw-full-flow) · Part 5: Coming Soon*
+*Part 4 of 7 — [← Part 3: The Full Flow](/blog/nanoclaw-full-flow) · [Part 5: Human-in-the-Loop →](/blog/nanoclaw-approval-gates)*
