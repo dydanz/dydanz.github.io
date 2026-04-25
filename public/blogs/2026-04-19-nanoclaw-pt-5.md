@@ -332,4 +332,4 @@ In the next post: the other side of control. Cost tracking, rate limiters, budge
 
 ---
 
-*Part 5 of 7 — [← Part 4: LLM Routing](/blog/nanoclaw-llm-routing) · Part 6: Coming Soon*
+*Part 5 of 7 — [← Part 4: LLM Routing](/blog/nanoclaw-llm-routing) · [Part 6: Staying Sane →](/blog/nanoclaw-cost-and-safety)*

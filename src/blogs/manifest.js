@@ -9,6 +9,13 @@
 
 const blogManifest = [
   {
+    title: "Staying Sane: The Unglamorous Infrastructure That Keeps the Lights On",
+    date: "2026-04-19",
+    slug: "nanoclaw-cost-and-safety",
+    excerpt: "Cost tracking, rate limits, budget guards, emergency stops, and all the boring infrastructure that prevents an autonomous AI system from quietly ruining your evening.",
+    file: "/blogs/2026-04-19-nanoclaw-pt-6.md"
+  },
+  {
     title: "Human-in-the-Loop: Why My Bot Asks Permission Before Pushing Code",
     date: "2026-04-19",
     slug: "nanoclaw-approval-gates",
