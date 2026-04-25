@@ -309,4 +309,4 @@ In the final post: the retrospective. What I'd build differently, what surprised
 
 ---
 
-*Part 6 of 7 — [← Part 5: Approval Gates](/blog/nanoclaw-approval-gates) · Part 7: Coming Soon*
+*Part 6 of 7 — [← Part 5: Approval Gates](/blog/nanoclaw-approval-gates) · [Part 7: What I Learned →](/blog/nanoclaw-lessons-learned)*

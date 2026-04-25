@@ -9,6 +9,13 @@
 
 const blogManifest = [
   {
+    title: "What I Learned Building an Autonomous Code Agent",
+    date: "2026-04-19",
+    slug: "nanoclaw-lessons-learned",
+    excerpt: "An honest retrospective on NanoClaw — what worked, what didn't, what I'd build differently, and what building a multi-agent system from scratch taught me about AI, engineering, and the gap between demos and daily use.",
+    file: "/blogs/2026-04-19-nanoclaw-pt-7.md"
+  },
+  {
     title: "Staying Sane: The Unglamorous Infrastructure That Keeps the Lights On",
     date: "2026-04-19",
     slug: "nanoclaw-cost-and-safety",
