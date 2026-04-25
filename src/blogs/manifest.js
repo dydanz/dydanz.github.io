@@ -9,6 +9,20 @@
 
 const blogManifest = [
   {
+    title: "Staying Sane: The Unglamorous Infrastructure That Keeps the Lights On",
+    date: "2026-04-19",
+    slug: "nanoclaw-cost-and-safety",
+    excerpt: "Cost tracking, rate limits, budget guards, emergency stops, and all the boring infrastructure that prevents an autonomous AI system from quietly ruining your evening.",
+    file: "/blogs/2026-04-19-nanoclaw-pt-6.md"
+  },
+  {
+    title: "Human-in-the-Loop: Why My Bot Asks Permission Before Pushing Code",
+    date: "2026-04-19",
+    slug: "nanoclaw-approval-gates",
+    excerpt: "How NanoClaw waits for a human reaction without freezing, the evolution from simple emoji gates to dual-signal approval, and the bug an AI reviewer caught in the approval logic itself.",
+    file: "/blogs/2026-04-19-nanoclaw-pt-5.md"
+  },
+  {
     title: "LLM Routing: Why I Use Three Different AI Providers (And How I Stopped Overpaying)",
     date: "2026-04-19",
     slug: "nanoclaw-llm-routing",
