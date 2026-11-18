@@ -9,6 +9,13 @@
 
 const blogManifest = [
   {
+    title: "Money Doesn't Retry: Why Fintech Software Can't Just \"Try Again\"",
+    date: "2026-11-18",
+    slug: "ledger-money-doesnt-retry",
+    excerpt: "Your app says the payment failed. Your bank says it went through. Which one is lying? Why money software plays by different rules, and the ledger I built to find out what those rules cost.",
+    file: "/blogs/2026-11-18-ledger-pt-1.md"
+  },
+  {
     title: "What I Learned Building an Autonomous Code Agent",
     date: "2026-04-19",
     slug: "nanoclaw-lessons-learned",
