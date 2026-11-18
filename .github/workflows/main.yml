@@ -37,7 +37,9 @@ jobs:
         env:
           CI: false
           GITHUB_USERNAME: ${{ github.repository_owner }}
-          REACT_APP_GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # PROFILE_TOKEN: read-only token that can see the owner's other repos (pinned projects).
+          # The repo-scoped GITHUB_TOKEN resolves them as null; it is only a fallback.
+          REACT_APP_GITHUB_TOKEN: ${{ secrets.PROFILE_TOKEN || secrets.GITHUB_TOKEN }}
           USE_GITHUB_DATA: "true"
         run: |
           npm install

@@ -24,7 +24,10 @@ export default function Projects() {
           throw result;
         })
         .then(response => {
-          setrepoFunction(response.data.user.pinnedItems.edges);
+          // A repo-scoped token resolves other repos as `node: null`; skip them.
+          setrepoFunction(
+            response.data.user.pinnedItems.edges.filter(edge => edge && edge.node)
+          );
         })
         .catch(function (error) {
           console.error(
