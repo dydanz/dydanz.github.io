@@ -9,6 +9,13 @@
 
 const blogManifest = [
   {
+    title: "Never Erase, Only Add: The Double-Entry Journal",
+    date: "2026-11-18",
+    slug: "ledger-double-entry-journal",
+    excerpt: "Why a ledger is written in ink, how a 500-year-old bookkeeping rule still catches bugs, and how you fix a mistake without deleting anything. Plus the database guard that a single TRUNCATE walked straight past.",
+    file: "/blogs/2026-11-18-ledger-pt-2.md"
+  },
+  {
     title: "Money Doesn't Retry: Why Fintech Software Can't Just \"Try Again\"",
     date: "2026-11-18",
     slug: "ledger-money-doesnt-retry",
