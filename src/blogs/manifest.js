@@ -9,6 +9,13 @@
 
 const blogManifest = [
   {
+    title: "Your Balance Is a Story, Not a Number: Event Sourcing",
+    date: "2026-11-20",
+    slug: "ledger-event-sourcing",
+    excerpt: "A parcel tracker doesn't store where your package is. It stores every scan, and works out the rest. Why a ledger should do the same, the life of a transaction from PENDING to SETTLED, and how to rebuild the present from the past.",
+    file: "/blogs/2026-11-20-ledger-pt-3.md"
+  },
+  {
     title: "Never Erase, Only Add: The Double-Entry Journal",
     date: "2026-11-18",
     slug: "ledger-double-entry-journal",
