@@ -9,6 +9,13 @@
 
 const blogManifest = [
   {
+    title: "I Pressed Pay Twice: Idempotency and Concurrency",
+    date: "2026-11-21",
+    slug: "ledger-idempotency-concurrency",
+    excerpt: "A retry has to stay a retry, and two payments can't both spend the same money. How a cloakroom ticket explains idempotency keys, why the ledger makes requests wait in line, and two bugs where my own safety rules got in the way.",
+    file: "/blogs/2026-11-21-ledger-pt-4.md"
+  },
+  {
     title: "Your Balance Is a Story, Not a Number: Event Sourcing",
     date: "2026-11-20",
     slug: "ledger-event-sourcing",
