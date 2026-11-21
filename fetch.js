@@ -38,9 +38,7 @@ if (USE_GITHUB_DATA === "true") {
               name
               description
               forkCount
-              stargazers {
-                totalCount
-              }
+              stargazerCount
               url
               id
               diskUsage
