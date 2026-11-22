@@ -9,6 +9,13 @@
 
 const blogManifest = [
   {
+    title: "What Must Happen Now, and What Can Happen Later: The Outbox",
+    date: "2026-11-22",
+    slug: "ledger-sync-async-outbox",
+    excerpt: "Rina's top-up is done. Now the fraud engine, the notification and the analytics team all need to hear about it. Why a ledger can't just write to the database and then send a message, how an outbox tray fixes that, and the one-line wake-up call that made every payment wait in line.",
+    file: "/blogs/2026-11-22-ledger-pt-5.md"
+  },
+  {
     title: "I Pressed Pay Twice: Idempotency and Concurrency",
     date: "2026-11-21",
     slug: "ledger-idempotency-concurrency",
