@@ -9,6 +9,13 @@
 
 const blogManifest = [
   {
+    title: "When Things Break, and How You Know",
+    date: "2026-11-23",
+    slug: "ledger-when-things-break",
+    excerpt: "A database killed mid-write, a worker that froze instead of dying, a cache outage that slowed every payment, and an auditor that checks the books every minute. How the ledger answers when it doesn't know, how it finishes what was left half-done, and the load test numbers that weren't flattering.",
+    file: "/blogs/2026-11-23-ledger-pt-6.md"
+  },
+  {
     title: "What Must Happen Now, and What Can Happen Later: The Outbox",
     date: "2026-11-22",
     slug: "ledger-sync-async-outbox",
